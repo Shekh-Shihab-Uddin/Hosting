@@ -6,7 +6,7 @@ const Contact = () => {
 
   const [data, setData] = useState({
     name:"",
-    phone: {},
+    phone: "",
     email: "",
     message:""
   })
